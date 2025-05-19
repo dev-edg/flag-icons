@@ -664,15 +664,6 @@
     "name": "England"
   },
   {
-    "capital": "Malabo",
-    "code": "gq",
-    "continent": "Africa",
-    "flag_1x1": "flags/1x1/gq.svg",
-    "flag_4x3": "flags/4x3/gq.svg",
-    "iso": true,
-    "name": "Equatorial Guinea"
-  },
-  {
     "capital": "Asmara",
     "code": "er",
     "continent": "Africa",
